@@ -40,9 +40,9 @@ const property = () => {
             This app is still a work in progress. The design isn&#39;t finalized
             yet but, the idea is to create a product showcase website where the
             users can show off their 3D models, similar to other sites like
-            sketchfab. As of now I've just placed 3 random Drones and setup the
-            primary lighting of my liking. The final version would more likely
-            be an ecommerce website.
+            sketchfab. As of now I&#39;ve just placed 3 random Drones and setup
+            the primary lighting of my liking. The final version would more
+            likely be an ecommerce website.
           </p>
           <a
             href="https://github.com/UttejK/falcon"

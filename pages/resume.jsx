@@ -50,12 +50,12 @@ const resume = () => {
           </div>
         </div>
         <p>
-          I'm Uttej, as a fresher, I have a passion for Data analysis. Machine
-          learning, Python and Web development. I've worked on projects using
-          advanced Machine learning models and multiple responsive Websites
-          using React and also ThreeJS. I've also created a prototype Metaverse
-          using Unreal Engine and Blender, focusing on High-performance
-          optimization.
+          I&#39;m Uttej, as a fresher, I have a passion for Data analysis.
+          Machine learning, Python and Web development. I&#39;ve worked on
+          projects using advanced Machine learning models and multiple
+          responsive Websites using React and also ThreeJS. I&#39;ve also
+          created a prototype Metaverse using Unreal Engine and Blender,
+          focusing on High-performance optimization.
         </p>
 
         {/* Skills */}
