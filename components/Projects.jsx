@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import Falcon from "../public/assets/projects/F_A_L_C_O_N.png";
+import CSVL from "../public/assets/projects/CSVLoader.png";
 import NeoFi from "../public/assets/projects/NeoFi.png";
 import TIL from "../public/assets/projects/Today I Learned.png";
 import TTC from "../public/assets/projects/ThreeJS T-Shirt Customizer.png";
@@ -15,7 +16,7 @@ const Projects = () => {
           Projects
         </p>
         <h2 className="py-4">What I&apos;ve Built</h2>
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-3 gap-8">
           <ProjectItem
             title="3D T-Shirt Customizer"
             backgroundImg={TTC}
@@ -39,6 +40,12 @@ const Projects = () => {
             backgroundImg={Falcon}
             projectUrl="/falcon"
             tech="React Three Fiber"
+          />
+          <ProjectItem
+            title="CSV Loader"
+            backgroundImg={CSVL}
+            projectUrl="/csvl"
+            tech="Python"
           />
         </div>
       </div>
