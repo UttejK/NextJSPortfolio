@@ -15,7 +15,7 @@ const resume = () => {
         <link rel="icon" href="/logo.png" />
       </Head>
 
-      <div className="max-w-[940px] mx-auto p-2 pt-[120px]">
+      <div className="max-w-[940px] mx-auto p-2 pt-[120px] w-full">
         <h2 className="text-center">Resume</h2>
         <div className="bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center">
           <h2 className="text-center">Uttej Kuruma</h2>
@@ -63,24 +63,23 @@ const resume = () => {
           <h5 className="text-center underline text-[18px] py-2">Skills</h5>
           <p className="py-2">
             <span className="font-bold">Technical Skills</span>
-            <span className="px-2">|</span>Front-End Developer
-            <span className="px-2">|</span>HTML
-            <span className="px-2">|</span>CSS
-            <span className="px-2">|</span>Javascript
-            <span className="px-2">|</span>FramerMotion
-            <span className="px-2">|</span>Next JS
-            <span className="px-2">|</span>React
-            <span className="px-2">|</span>Tailwind
-            <span className="px-2">|</span>React Three Fiber
-            <span className="px-2">|</span>ThreeJS
-            <span className="px-2">|</span>Python
-            <span className="px-2">|</span>C++
-            <span className="px-2">|</span>Blender
-            <span className="px-2">|</span>Houdini
-            <span className="px-2">|</span>Autodesk Maya
-            <span className="px-2">|</span>Unreal Engine 5
-            <span className="px-2">|</span>Autodesk Revit
-            <span className="px-2">|</span>Autodesk AutoCAD
+            <span> | </span>Front-End Developer
+            <span> | </span>HTML
+            <span> | </span>CSS
+            <span> | </span>Javascript
+            <span> | </span>FramerMotion
+            <span> | </span>Next JS
+            <span> | </span>React
+            <span> | </span>Tailwind
+            <span> | </span>React Three Fiber
+            <span> | </span>ThreeJS
+            <span> | </span>Python
+            <span> | </span>C++
+            <span> | </span>Blender
+            <span> | </span>Houdini
+            <span> | </span>Autodesk Maya
+            <span> | </span>Unreal Engine 5<span> | </span>Autodesk Revit
+            <span> | </span>Autodesk AutoCAD
           </p>
         </div>
 
