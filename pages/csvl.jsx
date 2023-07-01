@@ -48,7 +48,12 @@ const property = () => {
             use the features of a csv file and drive the attributes that can be
             used to do impressive things within Blender. The Environment Scene
             shown in the cover image and{" "}
-            <a href={CSVL.src} target="_blank" className="text-blue-500">
+            <a
+              href={CSVL.src}
+              target="_blank"
+              rel="noreferrer"
+              className="text-blue-500"
+            >
               here
             </a>{" "}
             was created using the same script.
